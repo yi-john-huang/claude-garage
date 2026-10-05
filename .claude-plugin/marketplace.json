@@ -1,0 +1,16 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "claude-mods",
+  "description": "John Huang's Claude Code mods.",
+  "owner": { "name": "John Huang" },
+  "plugins": [
+    {
+      "name": "omp-statusline",
+      "description": "An Oh My Pi style status band: model, cwd, git branch, PR, plan, context use and window.",
+      "version": "0.1.0",
+      "author": { "name": "John Huang" },
+      "category": "productivity",
+      "source": "./plugins/omp-statusline"
+    }
+  ]
+}

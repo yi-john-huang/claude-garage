@@ -1,0 +1,9 @@
+{
+  "name": "omp-statusline",
+  "version": "0.1.0",
+  "description": "An Oh My Pi style status band: model, cwd, git branch, PR, plan, context use and window.",
+  "author": {
+    "name": "John Huang"
+  },
+  "types": "./types/index.d.ts"
+}
