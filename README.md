@@ -5,8 +5,8 @@ A garage of Claude Code mods: a plugin marketplace that grows one mod at a time.
 ## Install
 
 ```sh
-# From GitHub (after pushing this repo)
-claude plugin marketplace add <github-user>/claude-garage
+# From GitHub
+claude plugin marketplace add yi-john-huang/claude-garage
 # Or from a local clone
 claude plugin marketplace add ~/workspace/claude-garage
 
