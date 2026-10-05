@@ -1,16 +1,16 @@
-# claude-mods
+# claude-garage
 
-A Claude Code mod store (plugin marketplace).
+A garage of Claude Code mods: a plugin marketplace that grows one mod at a time.
 
 ## Install
 
 ```sh
 # From GitHub (after pushing this repo)
-claude plugin marketplace add <github-user>/claude-mods
+claude plugin marketplace add <github-user>/claude-garage
 # Or from a local clone
-claude plugin marketplace add ~/workspace/claude-mods
+claude plugin marketplace add ~/workspace/claude-garage
 
-claude plugin install omp-statusline@claude-mods
+claude plugin install omp-statusline@claude-garage
 ```
 
 Then run `/reload-plugins` in a session, or start a new one.

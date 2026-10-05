@@ -1,7 +1,7 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
-  "name": "claude-mods",
-  "description": "John Huang's Claude Code mods.",
+  "name": "claude-garage",
+  "description": "John Huang's garage of Claude Code mods.",
   "owner": { "name": "John Huang" },
   "plugins": [
     {
